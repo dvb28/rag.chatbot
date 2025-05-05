@@ -45,5 +45,6 @@ backend/rasa/.venv
 
 # Server Ignore
 rasa/.rasa
+rasa/.venv
 backend/__pycache__
 backend/**/__pycache__
