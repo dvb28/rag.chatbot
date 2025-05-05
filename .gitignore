@@ -40,11 +40,10 @@ frontend/next-env.d.ts
 
 # Environment
 frontend/*.env
-backend/api/.venv
-backend/rasa/.venv
+backend/.venv
+rasa/.venv
 
 # Server Ignore
-rasa/.rasa
 rasa/.venv
 backend/__pycache__
 backend/**/__pycache__
