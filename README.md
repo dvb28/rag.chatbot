@@ -6,7 +6,7 @@ Chatbot hoạt động trên nền tảng web và tích hợp khả năng xử l
 
 ## Demo
 <video width="640" height="360" controls>
-  <source src="./demo/2025-05-12 10-08-23.mp4" type="video/x-matroska">
+  <source src="./demo/demos-chatbot_480p.mp4" type="video/x-matroska">
   Trình duyệt của bạn không hỗ trợ nhúng video.
 </video>
 
