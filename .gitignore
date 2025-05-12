@@ -45,6 +45,7 @@ rasa/.venv
 
 # Server Ignore
 rasa/.venv
-rasa/models/*.gz
+rasa/models/*.tar.gz
+rasa/.rasa
 backend/__pycache__
 backend/**/__pycache__
