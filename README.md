@@ -5,7 +5,7 @@ Hệ thống Chatbot được phát triển nhằm hỗ trợ tự động giả
 Chatbot hoạt động trên nền tảng web và tích hợp khả năng xử lý ngôn ngữ tự nhiên tiếng Việt để mang lại trải nghiệm tương tác tự nhiên, chính xác.
 
 ## Preview
-![demo](./demo/demos-chatbot_480p.gif)
+![demo](https://raw.githubusercontent.com/vieetbaod/rag.chatbot/refs/heads/main/demo/demos-chatbot_480p.gif)
 
 ## Cách thức hoạt động
 #### 1. Tiếp nhận câu hỏi người dùng
